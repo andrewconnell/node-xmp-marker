@@ -1,6 +1,6 @@
 {
   "name": "xmp-marker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extracts marker objects from an Adobe XMP file.",
   "author": {
     "name": "Andrew Connell",
