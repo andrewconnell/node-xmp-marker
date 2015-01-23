@@ -1,0 +1,41 @@
+{
+  "name": "xmp-marker",
+  "version": "0.1.0",
+  "description": "Extracts marker objects from an Adobe XMP file.",
+  "author": {
+    "name": "Andrew Connell",
+    "email": "me@andrewconnell.com",
+    "url": "http://www.andrewconnell.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewconnell/node-xmp-marker.git"
+  },
+  "keywords": [
+    "xmp",
+    "adobe",
+    "adobecc",
+    "marker",
+    "javascript"
+  ],
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewconnell/node-xmp-marker/issues"
+  },
+  "homepage": "https://github.com/andrewconnell/node-xmp-marker",
+  "dependencies": {
+    "q": "^1.1.2",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.9"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0"
+  }
+}
