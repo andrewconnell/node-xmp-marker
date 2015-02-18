@@ -19,6 +19,12 @@ xmpMarker.getMarkers(xmpFile)
     });
 ````
 
+Output
+
+````javascript
+
+````
+
 For more usage details, see the tests found in the `/test` folder. To execute the tests, install [Mocha](https://www.npmjs.com/package/mocha) globally...
 
 ````
@@ -35,3 +41,5 @@ npm test
 ````
 mocha
 ````
+
+[![Analytics](https://ga-beacon.appspot.com/UA-59891462-1/node-xmp-marker/readme)](https://github.com/igrigorik/ga-beacon)
